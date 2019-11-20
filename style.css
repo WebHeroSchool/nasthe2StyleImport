@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  margin: 5px 0 7px;
+}
+
+blockquote {
+  margin: auto;
+}
+
+cite {
+  margin: auto 200px;
+}
+
+h4 {
+  color: green;
+  margin: 5px 0 5px;
+}
+
+section {
+  margin: 5px 0 25px;
+}
+
+p {
+  margin: 15px 0 7px;
+}
+
+div {
+  margin: 40px 0;
+}
